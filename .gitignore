@@ -1,0 +1,11 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+~$*.pptx
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
